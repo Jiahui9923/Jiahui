@@ -147,7 +147,7 @@ a {
 	font-size: 14px;
 }
 
-@media screen and (min-width: 756px) and (max-width: 2000px) {
+@media screen and (min-width: 1000px) and (max-width: 2000px) {
     .main-group{
         width:auto;
         /* //width: 1000px; */
@@ -163,7 +163,7 @@ a {
     }
 }
 
-@media screen and (max-width: 756px) {
+@media screen and (max-width: 1000px) {
     .main-group{
         width:auto;
         height:100vh;
